@@ -1,9 +1,9 @@
 - 👋 Hi, I’m pratik belkar
-- 👀 I’m interested in to build a mobile application
+- 👀 I’m interested in to build a mobile apps and web developments
 - 🌱 I’m currently masters student
-- 💞️ I’m looking to collaborate on flutter projects
+- 💞️ I’m looking to collaborate on flutter projects 
 - 📫 Email : belkarpratik428@gmail.com
--   contact No: 9307923973
+-   contact No: 9307923973\
 
 
 <!---
